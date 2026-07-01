@@ -1,0 +1,3 @@
+# Default owner for all repositories in the org.
+# Applies to any repo that does not define its own CODEOWNERS.
+* @Undefined6799
